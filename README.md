@@ -61,7 +61,7 @@ I enjoy learning by building projects, strengthening my Data Structures & Algori
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-##  Currently Learning
+  Currently Learning
 
 - Data Structures & Algorithms
 - Machine Learning

@@ -26,7 +26,7 @@ I'm a **B.Tech Computer Science student** with a strong interest in **Artificial
 
 I enjoy learning by building projects, strengthening my Data Structures & Algorithms skills, and continuously improving my programming fundamentals.
 
-###  Currently Working On
+  Currently Working On
 
 -  Learning Machine Learning & NLP
 -  Building AI-based Projects
